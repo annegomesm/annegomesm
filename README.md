@@ -2,7 +2,7 @@
 
 > Oi, tudo bem? 
     
-> Me chamo Marianne Gomes, tenho 18 anos e sou desenvolvedora frontend - júnior V.
+> Me chamo Marianne Gomes, tenho 18 anos e sou desenvolvedora frontend - júnior V. <br />
 Também sou técnica em informática e graduanda em ADS. 
 
 ##
