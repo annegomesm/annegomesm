@@ -1,7 +1,6 @@
 #### Apresentação:
-    
-> Oi, tudo bem? Me chamo Marianne Gomes, tenho 19 anos e sou desenvolvedora frontend - júnior V. <br />
-Também sou técnica em informática e graduanda em ADS. 
+> Oi, tudo bem? Me chamo Marianne Gomes e sou desenvolvedora frontend. <br />
+Também sou técnica em informática e graduanda em Análise e desenvolvimento de sistemas
 
 ##
 
