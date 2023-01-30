@@ -1,6 +1,6 @@
 #### Apresentação:
-> Oi, tudo bem? Me chamo Marianne Gomes e sou desenvolvedora frontend. <br />
-Também sou técnica em informática e graduanda em Análise e desenvolvimento de sistemas
+> Hey, how's it going? My name is Marianne Gomes and I'm a frontend developer.<br />
+I am also a computer technician and graduate student in systems analysis and development.
 
 ##
 
