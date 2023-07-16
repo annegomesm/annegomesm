@@ -1,5 +1,5 @@
 #### Sobre:
-Oi, tudo bem? Me chamo Marianne Gomes e sou Desenvolvedora Frontend, atuante no mercado de trabalho desde 2019. 
+Oi, tudo bem? Me chamo Marianne Gomes e sou uma Desenvolvedora Frontend com experiência no mercado de trabalho desde 2019. Neste espaço, compartilho alguns dos meus projetos pessoais, que foram desenvolvidos como parte dos meus estudos e práticas de diferentes tecnologias.
 
 ##
 #### Tecnologias:
