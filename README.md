@@ -11,7 +11,7 @@ Oi, tudo bem? Me chamo Marianne Gomes e sou uma Desenvolvedora Frontend com expe
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://a.storyblok.com/f/106378/318x214/059458447e/styled-components.png">
-  <img align="center" height="30" width="30" src="https://styled-system.com/logo.png">
+  <img align="center" height="30" width="30" src="https://repository-images.githubusercontent.com/94380465/25fe3280-b902-11e9-8803-0d193cbe5827">
   <img align="center" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzYKNV127UP9kRjGxowPDTqKsmXRc8cPVaJes-PiGrzg&s">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
